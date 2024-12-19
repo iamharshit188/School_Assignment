@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RevLoop {
+public class ReverseSentenceIteratively {
     public static void main(String args[]){
         Scanner in =new Scanner(System.in);
 

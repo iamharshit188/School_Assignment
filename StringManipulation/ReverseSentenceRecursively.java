@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Rev_Recur{
+public class ReverseSentenceRecursively{
   public static void main(String args[]){
     Scanner in =new Scanner(System.in);
 
